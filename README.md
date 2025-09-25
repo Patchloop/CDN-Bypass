@@ -1,3 +1,7 @@
+⚠️ WARNING
+Some users are creating new accounts and claiming to sell or give away my script. Do NOT trust them these offers are scams. The “free” scripts they provide are encrypted and contain malware. I work alone and do not collaborate with anyone. If you see someone offering my script from another account, report them
+
+
 ## 🎬 Demo video
 
 > In this video, I demonstrate how CDN-Bypass handles even the toughest Cloudflare protections, including Turnstile
@@ -18,7 +22,7 @@ It is capable of:
 * Bypassing AWS
 * Bypassing akamai
 
-🔒 This library is **private** and will **not** be distributed publicly or for free.
+~ This library is **private** and will **not** be distributed publicly or for free.
 
 ---
 
